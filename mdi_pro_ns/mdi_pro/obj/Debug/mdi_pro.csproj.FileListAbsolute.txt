@@ -1,0 +1,11 @@
+C:\Users\Zander\source\repos\mdi_pro_ns\mdi_pro\bin\Debug\mdi_pro.exe.config
+C:\Users\Zander\source\repos\mdi_pro_ns\mdi_pro\bin\Debug\mdi_pro.exe
+C:\Users\Zander\source\repos\mdi_pro_ns\mdi_pro\bin\Debug\mdi_pro.pdb
+C:\Users\Zander\source\repos\mdi_pro_ns\mdi_pro\obj\Debug\mdi_pro.Backup.resources
+C:\Users\Zander\source\repos\mdi_pro_ns\mdi_pro\obj\Debug\mdi_pro.Form1.resources
+C:\Users\Zander\source\repos\mdi_pro_ns\mdi_pro\obj\Debug\mdi_pro.Properties.Resources.resources
+C:\Users\Zander\source\repos\mdi_pro_ns\mdi_pro\obj\Debug\mdi_pro.settings.resources
+C:\Users\Zander\source\repos\mdi_pro_ns\mdi_pro\obj\Debug\mdi_pro.csproj.GenerateResource.cache
+C:\Users\Zander\source\repos\mdi_pro_ns\mdi_pro\obj\Debug\mdi_pro.csproj.CoreCompileInputs.cache
+C:\Users\Zander\source\repos\mdi_pro_ns\mdi_pro\obj\Debug\mdi_pro.exe
+C:\Users\Zander\source\repos\mdi_pro_ns\mdi_pro\obj\Debug\mdi_pro.pdb

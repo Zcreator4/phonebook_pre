@@ -1,0 +1,10 @@
+C:\Users\Zander\source\repos\io_file_ns\io_file\obj\Debug\io_file.csprojAssemblyReference.cache
+C:\Users\Zander\source\repos\io_file_ns\io_file\obj\Debug\io_file.Form1.resources
+C:\Users\Zander\source\repos\io_file_ns\io_file\obj\Debug\io_file.Properties.Resources.resources
+C:\Users\Zander\source\repos\io_file_ns\io_file\obj\Debug\io_file.csproj.GenerateResource.cache
+C:\Users\Zander\source\repos\io_file_ns\io_file\obj\Debug\io_file.csproj.CoreCompileInputs.cache
+C:\Users\Zander\source\repos\io_file_ns\io_file\bin\Debug\io_file.exe.config
+C:\Users\Zander\source\repos\io_file_ns\io_file\bin\Debug\io_file.exe
+C:\Users\Zander\source\repos\io_file_ns\io_file\bin\Debug\io_file.pdb
+C:\Users\Zander\source\repos\io_file_ns\io_file\obj\Debug\io_file.exe
+C:\Users\Zander\source\repos\io_file_ns\io_file\obj\Debug\io_file.pdb

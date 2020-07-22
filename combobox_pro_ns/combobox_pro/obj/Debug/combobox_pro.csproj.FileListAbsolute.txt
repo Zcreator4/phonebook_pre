@@ -1,0 +1,10 @@
+C:\Users\Zander\source\repos\combobox_pro_ns\combobox_pro\obj\Debug\combobox_pro.csprojAssemblyReference.cache
+C:\Users\Zander\source\repos\combobox_pro_ns\combobox_pro\obj\Debug\combobox_pro.Form1.resources
+C:\Users\Zander\source\repos\combobox_pro_ns\combobox_pro\obj\Debug\combobox_pro.Properties.Resources.resources
+C:\Users\Zander\source\repos\combobox_pro_ns\combobox_pro\obj\Debug\combobox_pro.csproj.GenerateResource.cache
+C:\Users\Zander\source\repos\combobox_pro_ns\combobox_pro\obj\Debug\combobox_pro.csproj.CoreCompileInputs.cache
+C:\Users\Zander\source\repos\combobox_pro_ns\combobox_pro\bin\Debug\combobox_pro.exe.config
+C:\Users\Zander\source\repos\combobox_pro_ns\combobox_pro\bin\Debug\combobox_pro.exe
+C:\Users\Zander\source\repos\combobox_pro_ns\combobox_pro\bin\Debug\combobox_pro.pdb
+C:\Users\Zander\source\repos\combobox_pro_ns\combobox_pro\obj\Debug\combobox_pro.exe
+C:\Users\Zander\source\repos\combobox_pro_ns\combobox_pro\obj\Debug\combobox_pro.pdb
